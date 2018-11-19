@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Inbox>
+    <Emails>
+        <Email>
+        	<isSent>true</isSent>
+            <hasRead>false</hasRead>
+            <senderName>Alex</senderName>
+            <senderEmail>lee00758@msn.com</senderEmail>
+            <receiverEmail>info@kaigangames.com</receiverEmail>
+            <timestamp>3/26/2018 9:00</timestamp>
+            <subject>Test Email</subject>
+            <body>Dear Tester,&#xA;&#xA;test(Image_Ocean)test test test test test test test</body>
+        </Email>
+        <Email>
+        	<isSent>true</isSent>
+            <hasRead>false</hasRead>
+            <senderName>Frida Kahlo</senderName>
+            <senderEmail>frida@jvm.com</senderEmail>
+            <receiverEmail>guillermo.kahlo@jvm.com</receiverEmail>
+            <timestamp>7/3/1937 18:44</timestamp>
+            <subject>Do you recognize it?</subject>
+            <body>Papa!&#xA;&#xA;Look at these pictures! Do you know where it is? I think I would be happy there. Imagine all the people I would meet, the inspiration, the food, the art?&#xA;&#xA;I want to leave this life in Mexico behind and go there. I'm not happy with Diego... Mamma was right,&#xA;&#xA;Besos, Frida(Image_Ocean)(Image_Beach)</body>
+        </Email>
+        <Email>
+        	<isSent>true</isSent>
+            <hasRead>false</hasRead>
+            <senderName>Alex</senderName>
+            <senderEmail>lee00758@msn.com</senderEmail>
+            <receiverEmail>info@kaigangames.com</receiverEmail>
+            <timestamp>3/26/2018 20:00</timestamp>
+            <subject>Test Email</subject>
+            <body>Dear Tester,&#xA;&#xA;test test test test test test test test</body>
+        </Email>
+        <Email>
+        	<isSent>true</isSent>
+            <hasRead>false</hasRead>
+            <senderName>Alex</senderName>
+            <senderEmail>lee00758@msn.com</senderEmail>
+            <receiverEmail>info@kaigangames.com</receiverEmail>
+            <timestamp>3/26/2018 12:00</timestamp>
+            <subject>Test Email</subject>
+            <body>(Video_prozd)Dear Tester,&#xA;&#xA;test test test test test test test test</body>
+        </Email>
+    </Emails>
+</Inbox>

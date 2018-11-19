@@ -1,0 +1,946 @@
+{
+  "namespace": "chats.mom",
+  "conversations": [
+    {
+      "tags": "main",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "__LINK0",
+      "tags_to_lock": "main",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK0",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "Anna",
+          "origin": "sender",
+          "date_text": "04 August 2017",
+          "time_text": "2:07 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I have these cookies I need to pass to you",
+          "origin": "sender",
+          "date_text": "04 August 2017",
+          "time_text": "2:07 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Mom",
+          "origin": "user",
+          "date_text": "04 August 2017",
+          "time_text": "2:07 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Some other time please?",
+          "origin": "user",
+          "date_text": "04 August 2017",
+          "time_text": "2:08 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I told you",
+          "origin": "user",
+          "date_text": "04 August 2017",
+          "time_text": "2:08 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I have tiny shelves",
+          "origin": "user",
+          "date_text": "04 August 2017",
+          "time_text": "2:09 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "There isn't any more space for food",
+          "origin": "user",
+          "date_text": "04 August 2017",
+          "time_text": "2:09 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "It's only a box of them",
+          "origin": "sender",
+          "date_text": "04 August 2017",
+          "time_text": "2:09 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Then why can't you finish it",
+          "origin": "user",
+          "date_text": "04 August 2017",
+          "time_text": "2:10 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Can't a mother bring her daughter some food",
+          "origin": "sender",
+          "date_text": "04 August 2017",
+          "time_text": "2:10 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I don't need it",
+          "origin": "user",
+          "date_text": "04 August 2017",
+          "time_text": "2:10 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Why aren't you answering your phone",
+          "origin": "sender",
+          "date_text": "06 August 2017",
+          "time_text": "9:01 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Are you still there?",
+          "origin": "sender",
+          "date_text": "06 August 2017",
+          "time_text": "9:01 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Mom",
+          "origin": "user",
+          "date_text": "06 August 2017",
+          "time_text": "9:01 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "All I ask is some space ok?",
+          "origin": "user",
+          "date_text": "06 August 2017",
+          "time_text": "9:02 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "So you only want to see me when you need something",
+          "origin": "sender",
+          "date_text": "06 August 2017",
+          "time_text": "9:02 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Thats not true mom",
+          "origin": "user",
+          "date_text": "06 August 2017",
+          "time_text": "9:03 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Then why are you avoiding me",
+          "origin": "sender",
+          "date_text": "06 August 2017",
+          "time_text": "9:03 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I am not",
+          "origin": "user",
+          "date_text": "06 August 2017",
+          "time_text": "9:03 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Then let me come over",
+          "origin": "sender",
+          "date_text": "06 August 2017",
+          "time_text": "9:04 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I am busy",
+          "origin": "user",
+          "date_text": "06 August 2017",
+          "time_text": "9:04 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "You are always busy",
+          "origin": "sender",
+          "date_text": "06 August 2017",
+          "time_text": "9:04 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "It's like we are strangers now",
+          "origin": "sender",
+          "date_text": "06 August 2017",
+          "time_text": "9:05 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Mom",
+          "origin": "user",
+          "date_text": "06 August 2017",
+          "time_text": "9:05 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I just want you to be supportive of my decision",
+          "origin": "user",
+          "date_text": "06 August 2017",
+          "time_text": "9:06 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "That is all",
+          "origin": "user",
+          "date_text": "06 August 2017",
+          "time_text": "9:06 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Supportive?",
+          "origin": "sender",
+          "date_text": "06 August 2017",
+          "time_text": "9:06 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "You say as if I never do ANYTHING for you 😠",
+          "origin": "sender",
+          "date_text": "06 August 2017",
+          "time_text": "9:07 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Who paid your rent when you took 3 months off to do that silly self help course",
+          "origin": "sender",
+          "date_text": "06 August 2017",
+          "time_text": "9:07 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "You tell me its going to be good for you",
+          "origin": "sender",
+          "date_text": "06 August 2017",
+          "time_text": "9:08 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "But what do you have to show at the end?",
+          "origin": "sender",
+          "date_text": "06 August 2017",
+          "time_text": "9:08 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "All I ask is that you come see your mother every once in a while",
+          "origin": "sender",
+          "date_text": "06 August 2017",
+          "time_text": "9:09 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Is that so difficult for you?",
+          "origin": "sender",
+          "date_text": "06 August 2017",
+          "time_text": "9:09 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Fine mom",
+          "origin": "user",
+          "date_text": "06 August 2017",
+          "time_text": "9:10 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Next time. I promise",
+          "origin": "user",
+          "date_text": "06 August 2017",
+          "time_text": "9:10 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Good",
+          "origin": "sender",
+          "date_text": "06 August 2017",
+          "time_text": "9:10 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Anna",
+          "origin": "sender",
+          "date_text": "08 August 2017",
+          "time_text": "11:12 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Aunt Penny is coming over for a visit soon",
+          "origin": "sender",
+          "date_text": "08 August 2017",
+          "time_text": "11:12 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I hope you are keeping to your promise",
+          "origin": "sender",
+          "date_text": "08 August 2017",
+          "time_text": "11:13 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Yeah I can make it",
+          "origin": "user",
+          "date_text": "08 August 2017",
+          "time_text": "11:13 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I will call you on when and where",
+          "origin": "sender",
+          "date_text": "08 August 2017",
+          "time_text": "11:13 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I heard about what happened",
+          "origin": "sender",
+          "date_text": "09 August 2017",
+          "time_text": "7:33 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Maybe its time you listen to me for once and let it go",
+          "origin": "sender",
+          "date_text": "09 August 2017",
+          "time_text": "7:33 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "This world is not run by silly mantras or your \"sense of purpose\"",
+          "origin": "sender",
+          "date_text": "09 August 2017",
+          "time_text": "7:34 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "It is a material world",
+          "origin": "sender",
+          "date_text": "09 August 2017",
+          "time_text": "7:34 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "You work",
+          "origin": "sender",
+          "date_text": "09 August 2017",
+          "time_text": "7:35 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "And you get paid",
+          "origin": "sender",
+          "date_text": "09 August 2017",
+          "time_text": "7:35 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "You live your life based on that",
+          "origin": "sender",
+          "date_text": "09 August 2017",
+          "time_text": "7:35 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "It is not that complicated",
+          "origin": "sender",
+          "date_text": "09 August 2017",
+          "time_text": "7:36 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "You have that already so why are you so desperate to throw it away?",
+          "origin": "sender",
+          "date_text": "09 August 2017",
+          "time_text": "7:36 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "About time you take what you have and be happy with it",
+          "origin": "sender",
+          "date_text": "09 August 2017",
+          "time_text": "7:37 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "You think I love what I do?",
+          "origin": "sender",
+          "date_text": "09 August 2017",
+          "time_text": "7:37 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "You think anyone loves what they do?",
+          "origin": "sender",
+          "date_text": "09 August 2017",
+          "time_text": "7:38 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I want to support you",
+          "origin": "sender",
+          "date_text": "09 August 2017",
+          "time_text": "7:38 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I really do",
+          "origin": "sender",
+          "date_text": "09 August 2017",
+          "time_text": "7:38 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "But not at the expense of your security",
+          "origin": "sender",
+          "date_text": "09 August 2017",
+          "time_text": "7:39 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "If you want a change of pace",
+          "origin": "sender",
+          "date_text": "09 August 2017",
+          "time_text": "7:39 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Aunt Penny has a position in her company",
+          "origin": "sender",
+          "date_text": "09 August 2017",
+          "time_text": "7:40 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "It's doing quite well",
+          "origin": "sender",
+          "date_text": "09 August 2017",
+          "time_text": "7:40 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Maybe I can recommend you",
+          "origin": "sender",
+          "date_text": "09 August 2017",
+          "time_text": "7:40 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Are you there?",
+          "origin": "sender",
+          "date_text": "09 August 2017",
+          "time_text": "7:41 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Answer me so I don't have to file a missing person's report",
+          "origin": "sender",
+          "date_text": "09 August 2017",
+          "time_text": "7:41 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "photoroll://Chat Audio/REC_0025",
+          "origin": "user",
+          "date_text": "09 August 2017",
+          "time_text": "7:41 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Have you talked to Aunt Penny yet?",
+          "origin": "sender",
+          "date_text": "11 August 2017",
+          "time_text": "5:27 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Hi Mom.",
+          "origin": "user",
+          "date_text": "11 August 2017",
+          "time_text": "5:27 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Yeah but",
+          "origin": "user",
+          "date_text": "11 August 2017",
+          "time_text": "5:27 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I don't want to work at a PR firm",
+          "origin": "user",
+          "date_text": "11 August 2017",
+          "time_text": "5:28 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "You said you want something different",
+          "origin": "sender",
+          "date_text": "11 August 2017",
+          "time_text": "5:28 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Here I am trying to help you out",
+          "origin": "sender",
+          "date_text": "11 August 2017",
+          "time_text": "5:29 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Again you turn it down",
+          "origin": "sender",
+          "date_text": "11 August 2017",
+          "time_text": "5:29 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "What is it you want 😧",
+          "origin": "sender",
+          "date_text": "11 August 2017",
+          "time_text": "5:29 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Maybe if you listen to me",
+          "origin": "user",
+          "date_text": "11 August 2017",
+          "time_text": "5:30 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Really listen",
+          "origin": "user",
+          "date_text": "11 August 2017",
+          "time_text": "5:30 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Then you might come closer to understanding",
+          "origin": "user",
+          "date_text": "11 August 2017",
+          "time_text": "5:30 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "She consults at a pet store and that is NOT THE SAME",
+          "origin": "user",
+          "date_text": "11 August 2017",
+          "time_text": "5:31 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Nothing is ever enough for you is it",
+          "origin": "sender",
+          "date_text": "11 August 2017",
+          "time_text": "5:31 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Ungrateful",
+          "origin": "sender",
+          "date_text": "11 August 2017",
+          "time_text": "5:32 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I gave you so much",
+          "origin": "sender",
+          "date_text": "11 August 2017",
+          "time_text": "5:32 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "And this is the treatment I get",
+          "origin": "sender",
+          "date_text": "11 August 2017",
+          "time_text": "5:32 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "FINE",
+          "origin": "user",
+          "date_text": "11 August 2017",
+          "time_text": "5:33 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I am sorry I am such a dissapointment",
+          "origin": "user",
+          "date_text": "11 August 2017",
+          "time_text": "5:33 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I am trying to be better but please",
+          "origin": "user",
+          "date_text": "11 August 2017",
+          "time_text": "5:34 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "This is my own way",
+          "origin": "user",
+          "date_text": "11 August 2017",
+          "time_text": "5:34 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "So much is happening right now",
+          "origin": "user",
+          "date_text": "11 August 2017",
+          "time_text": "5:34 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "All I ask is that you trust me",
+          "origin": "user",
+          "date_text": "11 August 2017",
+          "time_text": "5:35 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I got nothing to show you now but I will not give up",
+          "origin": "user",
+          "date_text": "11 August 2017",
+          "time_text": "5:35 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Ok",
+          "origin": "sender",
+          "date_text": "11 August 2017",
+          "time_text": "5:36 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "You know I do this becasue I love you right?",
+          "origin": "sender",
+          "date_text": "11 August 2017",
+          "time_text": "5:36 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Yeah",
+          "origin": "user",
+          "date_text": "11 August 2017",
+          "time_text": "5:36 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Love you too mom",
+          "origin": "user",
+          "date_text": "11 August 2017",
+          "time_text": "5:37 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Hello?",
+          "origin": "sender",
+          "date_text": "13 August 2017",
+          "time_text": "7:33 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Hello??",
+          "origin": "sender",
+          "date_text": "14 August 2017",
+          "time_text": "6:14 am",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "",
+      "tags_to_lock": "__LINK0",
+      "trigger": ""
+    }
+  ]
+}

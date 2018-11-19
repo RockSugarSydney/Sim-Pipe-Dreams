@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CallHistory>
+    <CallsList>
+		<Call>
+			<phoneNumber>017-2306739</phoneNumber>
+			<type>Missed</type>
+			<timestamp>3/27/2018 13:21</timestamp>
+		</Call>
+		<Call>
+			<phoneNumber>017-2306739</phoneNumber>
+			<type>Missed</type>
+			<timestamp>3/27/2018 13:33</timestamp>
+		</Call>
+		<Call>
+			<phoneNumber>017-2306739</phoneNumber>
+			<type>Missed</type>
+			<timestamp>3/27/2018 14:22</timestamp>
+		</Call>
+		<Call>
+			<phoneNumber>017-2306739</phoneNumber>
+			<type>Incoming</type>
+			<timestamp>3/27/2018 14:30</timestamp>
+		</Call>
+		<Call>
+			<phoneNumber>017-2306739</phoneNumber>
+			<type>Outgoing</type>
+			<timestamp>3/27/2018 15:00</timestamp>
+		</Call>
+		<Call>
+			<phoneNumber>012-3648291</phoneNumber>
+			<type>Missed</type>
+			<timestamp>3/27/2018 18:30</timestamp>
+		</Call>
+		<Call>
+			<phoneNumber>012-3648292</phoneNumber>
+			<type>Rejected</type>
+			<timestamp>3/27/2018 18:35</timestamp>
+		</Call>
+    </CallsList>
+</CallHistory>

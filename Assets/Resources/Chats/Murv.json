@@ -1,0 +1,2189 @@
+{
+  "namespace": "chats.murv",
+  "conversations": [
+    {
+      "tags": "main",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "__LINK0",
+      "tags_to_lock": "main",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK0",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "Hey",
+          "origin": "sender",
+          "date_text": "03 August 2017",
+          "time_text": "2:21 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+		{
+          "message": "photoroll://Chat Audio/REC_1011",
+          "origin": "sender",
+          "date_text": "10 August 2017",
+          "time_text": "9:31 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+		{
+          "message": "photoroll://Chat Audio/REC_1011",
+          "origin": "sender",
+          "date_text": "10 August 2017",
+          "time_text": "9:31 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "You still with your boyfriend?",
+          "origin": "sender",
+          "date_text": "03 August 2017",
+          "time_text": "2:21 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Come on Murv",
+          "origin": "user",
+          "date_text": "03 August 2017",
+          "time_text": "2:21 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Just askin",
+          "origin": "sender",
+          "date_text": "03 August 2017",
+          "time_text": "2:22 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "People are talkin",
+          "origin": "sender",
+          "date_text": "03 August 2017",
+          "time_text": "2:22 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Have you considered that the things you say might come of as creepy?",
+          "origin": "user",
+          "date_text": "03 August 2017",
+          "time_text": "2:23 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+		{
+          "message": "photoroll://Chat Audio/REC_1011",
+          "origin": "sender",
+          "date_text": "10 August 2017",
+          "time_text": "9:31 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Creepy?",
+          "origin": "sender",
+          "date_text": "03 August 2017",
+          "time_text": "2:23 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Im just speakin my mind 😈",
+          "origin": "sender",
+          "date_text": "03 August 2017",
+          "time_text": "2:23 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Nothin wrong with dat",
+          "origin": "sender",
+          "date_text": "03 August 2017",
+          "time_text": "2:24 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+		{
+          "message": "photoroll://Chat Audio/REC_1011",
+          "origin": "sender",
+          "date_text": "10 August 2017",
+          "time_text": "9:31 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Isnt company policy to get to know your colleages better as well?",
+          "origin": "sender",
+          "date_text": "03 August 2017",
+          "time_text": "2:24 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Yeah",
+          "origin": "user",
+          "date_text": "03 August 2017",
+          "time_text": "2:24 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "But you need to tone it down",
+          "origin": "user",
+          "date_text": "03 August 2017",
+          "time_text": "2:25 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Waay down",
+          "origin": "user",
+          "date_text": "03 August 2017",
+          "time_text": "2:25 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Telling me to wear my bareback dress because it looks \"hot\" its NOT APPROPRIATE",
+          "origin": "user",
+          "date_text": "03 August 2017",
+          "time_text": "2:26 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Yr making a big deal outta this",
+          "origin": "sender",
+          "date_text": "03 August 2017",
+          "time_text": "2:26 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Im just being honest",
+          "origin": "sender",
+          "date_text": "03 August 2017",
+          "time_text": "2:26 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I cant even tell you yr pretty?",
+          "origin": "sender",
+          "date_text": "03 August 2017",
+          "time_text": "2:27 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I dont get it",
+          "origin": "sender",
+          "date_text": "03 August 2017",
+          "time_text": "2:27 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+		{
+          "message": "photoroll://Chat Audio/REC_1011",
+          "origin": "sender",
+          "date_text": "10 August 2017",
+          "time_text": "9:31 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Yr being way to sensetive",
+          "origin": "sender",
+          "date_text": "03 August 2017",
+          "time_text": "2:27 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Chill",
+          "origin": "sender",
+          "date_text": "03 August 2017",
+          "time_text": "2:28 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Lol",
+          "origin": "sender",
+          "date_text": "03 August 2017",
+          "time_text": "2:28 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Im gonna be your giver for the gift swap",
+          "origin": "sender",
+          "date_text": "03 August 2017",
+          "time_text": "2:28 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Yr gonna love what I have in mind for you 😍",
+          "origin": "sender",
+          "date_text": "03 August 2017",
+          "time_text": "2:29 pm",
+          "idle_time": 0,
+          "typing_time": 0,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "",
+      "tags_to_lock": "__LINK0",
+      "trigger": ""
+    },
+    {
+      "tags": "a2_intro",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "Hello lover boy",
+          "is_hidden": false
+        },
+        {
+          "message": "Greetings Murv",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "__LINK1",
+      "tags_to_lock": "a2_intro",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK1",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "Anna!",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.8304722,
+          "typing_time": 0.16666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Where have you been?!",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.5787873,
+          "typing_time": 0.6666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Everyone's been looking for you",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.5883932,
+          "typing_time": 0.8333334,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK26, __LINK29",
+      "tags_to_lock": "__LINK1",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK26",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "Oh I am fine baby",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "Huh?",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.9989967,
+          "typing_time": 0.16666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "🤔🤔",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.6451521,
+          "typing_time": 0.16666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Whats gotten into you?",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.56159,
+          "typing_time": 0.6666667,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK2, __LINK3, __LINK4",
+      "tags_to_lock": "__LINK26, __LINK29",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK2",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "I never realised how hot you are",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "Oh my",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.4659259,
+          "typing_time": 0.33333334,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "No one has ever said that to me before",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.1587515,
+          "typing_time": 1.5,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I always felt you look the most smashing in the office",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 0.9880248,
+          "typing_time": 1.8333334,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK5",
+      "tags_to_lock": "__LINK2, __LINK3, __LINK4",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK3",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "I find your forwardness very attractive",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "Oh",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.4544306,
+          "typing_time": 0.16666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Yeah",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.2099085,
+          "typing_time": 0.16666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I always believe that you want something you gotta grab it",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.6915405,
+          "typing_time": 1.8333334,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "You know what i mean?",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.5994604,
+          "typing_time": 0.8333334,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK5",
+      "tags_to_lock": "__LINK2, __LINK3, __LINK4",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK4",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "I cant stop thinking about your email",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "So you down for that? 😊",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.5609872,
+          "typing_time": 1,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK5",
+      "tags_to_lock": "__LINK2, __LINK3, __LINK4",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK5",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "__LINK6",
+      "tags_to_lock": "__LINK5",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK6",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "Have you thought about your dress size ?",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.2254016,
+          "typing_time": 1.3333334,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK7",
+      "tags_to_lock": "__LINK6",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK7",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "I need a favor first",
+          "is_hidden": false
+        },
+        {
+          "message": "Can you help me out with something?",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "Anything baby",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.554776,
+          "typing_time": 0.33333334,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "What is your command?",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 0.99312973,
+          "typing_time": 0.6666667,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK8",
+      "tags_to_lock": "__LINK7",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK8",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "Can you restore my phone data from my PC?",
+          "is_hidden": false
+        },
+        {
+          "message": "I need you to get a phone backup from my PC",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "No problem",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.8480407,
+          "typing_time": 0.33333334,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I'll just walk over to your desk and just give me your password",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.6036534,
+          "typing_time": 2.1666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Whats in it for me then?",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.324102,
+          "typing_time": 1,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "😜",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.0701975,
+          "typing_time": 0.16666667,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK9",
+      "tags_to_lock": "__LINK8",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK9",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "How bout a private show where I slide it on for you?",
+          "is_hidden": false
+        },
+        {
+          "message": "Maybe you can measure it with your bare hands",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "DEAL!",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.4747206,
+          "typing_time": 0.16666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "So whats the password",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.6463361,
+          "typing_time": 0.6666667,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK10, __LINK11, __LINK21",
+      "tags_to_lock": "__LINK9",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK17",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "__LINK12, __LINK13",
+      "tags_to_lock": "__LINK17",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK12, !__LINK15",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "Its incorrect",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.4264171,
+          "typing_time": 0.33333334,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK14, __LINK15",
+      "tags_to_lock": "__LINK12, __LINK13",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK13, !__LINK16",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "Wrong answer",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.53734,
+          "typing_time": 0.33333334,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK14, __LINK16",
+      "tags_to_lock": "__LINK12, __LINK13",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK14",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "__LINK18",
+      "tags_to_lock": "__LINK14",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK10, !__LINK22",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "keyboard://alphanumeric",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "__LINK17, __LINK19",
+      "tags_to_lock": "__LINK10, __LINK11, __LINK21",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK19, __LINK18",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "__LINK10, __LINK11, __LINK21, __LINK22",
+      "tags_to_lock": "__LINK19, __LINK18",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK11, !__LINK23",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "keyboard://alphanumeric",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "__LINK17, __LINK20",
+      "tags_to_lock": "__LINK10, __LINK11, __LINK21",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK20, __LINK18",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "__LINK10, __LINK11, __LINK21, __LINK23",
+      "tags_to_lock": "__LINK20, __LINK18",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK21, IDLE",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "__LINK24",
+      "tags_to_lock": "__LINK21",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK24",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "Nothing is working",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.5387498,
+          "typing_time": 0.5,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Did you forget it or something?",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.2245907,
+          "typing_time": 1,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK25",
+      "tags_to_lock": "__LINK24",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK25",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "Can we keep trying?",
+          "is_hidden": false
+        },
+        {
+          "message": "Too many passwords am I right?",
+          "is_hidden": false
+        },
+        {
+          "message": "Yeah it slipped my mind",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "__LINK30",
+      "tags_to_lock": "__LINK25",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK29",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "I need a favor",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "You never asked me for anything before",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.550343,
+          "typing_time": 1.1666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "What gives?",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.0269626,
+          "typing_time": 0.33333334,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK27",
+      "tags_to_lock": "__LINK26, __LINK29",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK27",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "Can you restore my phone data from my PC?",
+          "is_hidden": false
+        },
+        {
+          "message": "I need you to get a phone backup from my PC",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "Using another employee's PC is against policy",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.4178044,
+          "typing_time": 1.1666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Why cant you do it yourself?",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.5817337,
+          "typing_time": 1,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK28",
+      "tags_to_lock": "__LINK27",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK28",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "I am caught up with something",
+          "is_hidden": false
+        },
+        {
+          "message": "I have to attend a family emergency",
+          "is_hidden": false
+        },
+        {
+          "message": "Its a secret company assignment",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "That cant be right..",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.654062,
+          "typing_time": 0.6666667,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK30",
+      "tags_to_lock": "__LINK28",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK30",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "__LINK31",
+      "tags_to_lock": "__LINK30",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK31",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "SHIT",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.6299305,
+          "typing_time": 0.16666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "You are not Anna arent you! 😱😱",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 0.95756394,
+          "typing_time": 1.1666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "FUCK I should have known!",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.6165118,
+          "typing_time": 0.8333334,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Ok we are DONE",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.697546,
+          "typing_time": 0.6666667,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK32",
+      "tags_to_lock": "__LINK31",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK32",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "Do you want me to leak your dirty emails?",
+          "is_hidden": false
+        },
+        {
+          "message": "I guess you like being known as a pervert",
+          "is_hidden": false
+        },
+        {
+          "message": "Your flirting methods deserve to be published",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "Blackmail?",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 2.1260293,
+          "typing_time": 0.16666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Is that whats happening?",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.2934546,
+          "typing_time": 0.6666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "You know I can get get sued for sharing company secrets right?",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.3026255,
+          "typing_time": 2,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "If you still want to access Anna's computer I am not doing it",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 0.94843256,
+          "typing_time": 2.1666667,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK33, __LINK34",
+      "tags_to_lock": "__LINK32",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK33",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "What if I post your emails all over Jabbr?",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "God fucking damn it",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 2.2453403,
+          "typing_time": 0.6666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Fine. You win",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 0.9229293,
+          "typing_time": 0.5,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Looks like im screwed either way",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.3944702,
+          "typing_time": 1,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK35",
+      "tags_to_lock": "__LINK33, __LINK34",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK34",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "How about I send your emails to HR",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "Nononono",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.783205,
+          "typing_time": 0.16666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Ok I will do it",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.4195669,
+          "typing_time": 0.8333334,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Its hard to hold this job in this economy as it is",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.4306548,
+          "typing_time": 2,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK35",
+      "tags_to_lock": "__LINK33, __LINK34",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK35",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "__LINK36",
+      "tags_to_lock": "__LINK35",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK36",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "I need to get a password reset for her PC",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.5003409,
+          "typing_time": 1.6666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "But HR will text her phone to verify",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.4229968,
+          "typing_time": 1.3333334,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "You HAVE to pretend to be Anna otherwise they will never give me access",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 0.9818956,
+          "typing_time": 2.3333335,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK37, __LINK38",
+      "tags_to_lock": "__LINK36",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK37",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "I'm a pro",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "You've done this before?",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.5174528,
+          "typing_time": 0.6666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Geez",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.6343837,
+          "typing_time": 0.16666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Just make it quick ok?",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.659107,
+          "typing_time": 0.8333334,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK39",
+      "tags_to_lock": "__LINK37, __LINK38",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK38",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "Easier said than done",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "You were doing a bang up job earlier",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.9491941,
+          "typing_time": 1.3333334,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Just get this over and done with ok?",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.513885,
+          "typing_time": 1.3333334,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK39",
+      "tags_to_lock": "__LINK37, __LINK38",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK39",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "chats.elizabeth.a2_intro, __LINK40",
+      "tags_to_lock": "__LINK39",
+      "trigger": "ACT2.saveMurvWaitingElizabeth()"
+    },
+    {
+      "tags": "__LINK40",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "",
+      "tags_to_lock": "__LINK40",
+      "trigger": ""
+    },
+    {
+      "tags": "a2_after_reset_password",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "__LINK41",
+      "tags_to_lock": "a2_after_reset_password",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK41",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "Got the reset",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 8.741994,
+          "typing_time": 0.5,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "And....",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.658781,
+          "typing_time": 0.16666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I'm in",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.3343995,
+          "typing_time": 0.33333334,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK42",
+      "tags_to_lock": "__LINK41",
+      "trigger": "Triggers.playAmbience(\"sounds/scares/chimes_1.ogg\", true)"
+    },
+    {
+      "tags": "__LINK42",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "Remember what you're here for",
+          "is_hidden": false
+        },
+        {
+          "message": "Still clear on your task?",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "Yeah yeah get the phone backup right?",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 2.1245651,
+          "typing_time": 1.1666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Give me a sec..",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.2309678,
+          "typing_time": 0.6666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Its starting now..",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 5.5581503,
+          "typing_time": 0.5,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Gonna take a while to complete",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 3.565946,
+          "typing_time": 1,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I don't understand whats goin on.. But youre not the only one who wants access to this computer..",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 3.3011718,
+          "typing_time": 3,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK43",
+      "tags_to_lock": "__LINK42",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK43",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "There's someone else?",
+          "is_hidden": false
+        },
+        {
+          "message": "Who could it be?",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "While I'm waiting for the reset..",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 2.2002792,
+          "typing_time": 1,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Some dude came by demandin to use Anna's computer",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.1267253,
+          "typing_time": 1.5,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "He caused quite a scene and security took him away",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.6500239,
+          "typing_time": 1.6666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I think his name was Greg?",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.3398153,
+          "typing_time": 1,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Is he with you?",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.4266427,
+          "typing_time": 0.6666667,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK44, __LINK45",
+      "tags_to_lock": "__LINK43",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK44",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "I dont know that person",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "Barging in here is a bad idea",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.351377,
+          "typing_time": 1.1666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Security wont let this go easily",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.0359367,
+          "typing_time": 1,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK46",
+      "tags_to_lock": "__LINK44, __LINK45",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK45",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "I might know him",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "Well..",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.5267582,
+          "typing_time": 0.16666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Getting him in was not part of the deal",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.6807323,
+          "typing_time": 1.5,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Your friend is going to regret doing that",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 0.9145009,
+          "typing_time": 1.3333334,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK46",
+      "tags_to_lock": "__LINK44, __LINK45",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK46",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "__LINK47",
+      "tags_to_lock": "__LINK46",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK47",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "Finally!",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.581614,
+          "typing_time": 0.16666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Its done!",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 0.9531134,
+          "typing_time": 0.33333334,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Did you get it?",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 0.9369732,
+          "typing_time": 0.6666667,
+          "trigger": "ACT3.startRestoreFromAnnasWorkPC()",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "",
+      "tags_to_lock": "__LINK47",
+      "trigger": ""
+    },
+    {
+      "tags": "a3_restore_finished",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "__LINK48",
+      "tags_to_lock": "a3_restore_finished",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK48",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "Damn it",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 6.684266,
+          "typing_time": 0.33333334,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "It froze for a bit",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.4898565,
+          "typing_time": 0.8333334,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Did you get the backup?",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.6034429,
+          "typing_time": 0.8333334,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK49, __LINK50",
+      "tags_to_lock": "__LINK48",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK49",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "Yeah I got it",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "I've done everything you told me",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.788931,
+          "typing_time": 1,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Can I go now?",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.2237473,
+          "typing_time": 0.6666667,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK51",
+      "tags_to_lock": "__LINK49, __LINK50",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK50",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "It happened again...",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "The deal is to help with the backup",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.9649817,
+          "typing_time": 1.3333334,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I don't care if it works.",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.6576693,
+          "typing_time": 1,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Whats done is done.",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.4236414,
+          "typing_time": 0.6666667,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK51",
+      "tags_to_lock": "__LINK49, __LINK50",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK51",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "__LINK52",
+      "tags_to_lock": "__LINK51",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK52",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "I trust you are going to keep my chats with Anna a secret?",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.012499,
+          "typing_time": 2.1666667,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK58, __LINK64",
+      "tags_to_lock": "__LINK52",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK58",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "Sorry creep. You're done for",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "WHAT?!",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.9703877,
+          "typing_time": 0.16666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "YOU FUCKING FuCK",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.4372373,
+          "typing_time": 0.5,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK54, __LINK56",
+      "tags_to_lock": "__LINK58, __LINK64",
+      "trigger": ""
+    },
+    {
+      "tags": "chats.murv.a3_sent_report, __LINK54",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "chats.greg.a3_intro, __LINK53",
+      "tags_to_lock": "__LINK54, __LINK56",
+      "trigger": "ACT3.saveAfterMurvIntro();\nTriggers.updateStateDelayed(\"friends.a3_murv_reported\", true, 60f);\nTriggers.unlockAchievement(Globals.Achievement.THAT_IS_NOT_A_COMPLIMENT);"
+    },
+    {
+      "tags": "__LINK53",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "I WAS JUST CALLED TO HR",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 121.595894,
+          "typing_time": 1,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "WE HAD A FUCKIN DEAL",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.1449097,
+          "typing_time": 0.8333334,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "SHOULDVE KNOWN YOURE GOING TO SET ME UP",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.6886861,
+          "typing_time": 1.3333334,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "FUCK OFF MY LIFE",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 0.98738104,
+          "typing_time": 0.6666667,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK57",
+      "tags_to_lock": "__LINK53",
+      "trigger": ""
+    },
+    {
+      "tags": "!chats.murv.a3_sent_report, __LINK56",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "JK LOL",
+          "is_hidden": false
+        },
+        {
+          "message": "I'm just puling your leg",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "I am NOT talking to you anymore",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.7719126,
+          "typing_time": 1.1666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "Just get the hell out of my life before I call the cops",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.0060508,
+          "typing_time": 2.1666667,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "chats.greg.a3_intro, __LINK55",
+      "tags_to_lock": "__LINK54, __LINK56",
+      "trigger": "ACT3.saveAfterMurvIntro();\nTriggers.updateStateDelayed(\"friends.a3_murv_not_reported\", true, 60f);\nTriggers.unlockAchievement(Globals.Achievement.THAT_IS_A_COMPLIMENT);"
+    },
+    {
+      "tags": "__LINK55",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "__LINK57",
+      "tags_to_lock": "__LINK55",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK57",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "__LINK65",
+      "tags_to_lock": "__LINK57",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK64",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "Yeah yeah I will",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "Thank god.",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.7263763,
+          "typing_time": 0.33333334,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I swear she wont hear from me again",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.615952,
+          "typing_time": 1.3333334,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK60, __LINK62",
+      "tags_to_lock": "__LINK58, __LINK64",
+      "trigger": ""
+    },
+    {
+      "tags": "chats.murv.a3_sent_report, __LINK60",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "chats.greg.a3_intro, __LINK59",
+      "tags_to_lock": "__LINK60, __LINK62",
+      "trigger": "ACT3.saveAfterMurvIntro();\nTriggers.updateStateDelayed(\"friends.a3_murv_reported\", true, 60f);\nTriggers.unlockAchievement(Globals.Achievement.THAT_IS_NOT_A_COMPLIMENT);"
+    },
+    {
+      "tags": "__LINK59",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "WTF",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 121.850426,
+          "typing_time": 0.16666667,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "YOU LIED",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.4213896,
+          "typing_time": 0.33333334,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "I WAS JUST CALLED TO HR",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 0.9719834,
+          "typing_time": 1,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "WE HAD A FUCKIN DEAL",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.6090513,
+          "typing_time": 0.8333334,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "SHOULDVE KNOWN YOURE GOING TO SET ME UP",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.0078945,
+          "typing_time": 1.3333334,
+          "trigger": "",
+          "trigger_time": 0
+        },
+        {
+          "message": "FUCK OFF MY LIFE",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 1.1943061,
+          "typing_time": 0.6666667,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "__LINK63",
+      "tags_to_lock": "__LINK59",
+      "trigger": ""
+    },
+    {
+      "tags": "!chats.murv.a3_sent_report, __LINK62",
+      "condition": "",
+      "user_messages": [
+        {
+          "message": "As long as you dont do it again",
+          "is_hidden": false
+        },
+        {
+          "message": "Don't get caught next time alright",
+          "is_hidden": false
+        }
+      ],
+      "is_user_ignored": false,
+      "sender_messages": [
+        {
+          "message": "Just keep me out of what you're doing",
+          "origin": "sender",
+          "date_text": "auto",
+          "time_text": "auto",
+          "idle_time": 2.1560316,
+          "typing_time": 1.3333334,
+          "trigger": "",
+          "trigger_time": 0
+        }
+      ],
+      "tags_to_unlock": "chats.greg.a3_intro, __LINK61",
+      "tags_to_lock": "__LINK60, __LINK62",
+      "trigger": "ACT3.saveAfterMurvIntro();\nTriggers.updateStateDelayed(\"friends.a3_murv_not_reported\", true, 60f);\nTriggers.unlockAchievement(Globals.Achievement.THAT_IS_A_COMPLIMENT);"
+    },
+    {
+      "tags": "__LINK61",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "__LINK63",
+      "tags_to_lock": "__LINK61",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK63",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "__LINK65",
+      "tags_to_lock": "__LINK63",
+      "trigger": ""
+    },
+    {
+      "tags": "__LINK65",
+      "condition": "",
+      "user_messages": [],
+      "is_user_ignored": false,
+      "sender_messages": [],
+      "tags_to_unlock": "chats.busted.a3_intro",
+      "tags_to_lock": "__LINK65",
+      "trigger": ""
+    }
+  ]
+}

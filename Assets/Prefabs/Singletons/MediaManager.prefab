@@ -1,0 +1,314 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1510731360256432}
+  m_IsPrefabParent: 1
+--- !u!1 &1510731360256432
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4263108779967676}
+  - component: {fileID: 82031403859598140}
+  - component: {fileID: 82490937143883804}
+  - component: {fileID: 114037065626551816}
+  - component: {fileID: 328804436554826552}
+  m_Layer: 0
+  m_Name: MediaManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4263108779967676
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1510731360256432}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &82031403859598140
+AudioSource:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1510731360256432}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+--- !u!82 &82490937143883804
+AudioSource:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1510731360256432}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+--- !u!114 &114037065626551816
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1510731360256432}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57ce5fadc98f93c4797787f890675819, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundLibrary:
+  - name: Significance - Nothing
+    cover: {fileID: 21300000, guid: 5fb3a19112ec8db4ab6e07feb84d505a, type: 3}
+    clip: {fileID: 8300000, guid: c2ce3c8e3e6e9df4aa3103a60ceaf7e6, type: 3}
+  - name: City Ruins - Rays of Light
+    cover: {fileID: 21300000, guid: 5fb3a19112ec8db4ab6e07feb84d505a, type: 3}
+    clip: {fileID: 8300000, guid: eb210d878cbbf434a84ac98cbde0a4b9, type: 3}
+  - name: Peaceful Sleep
+    cover: {fileID: 21300000, guid: 5fb3a19112ec8db4ab6e07feb84d505a, type: 3}
+    clip: {fileID: 8300000, guid: 43e95176516ca1e4b93a34230dd93418, type: 3}
+  - name: Memories of Dust
+    cover: {fileID: 21300000, guid: 5fb3a19112ec8db4ab6e07feb84d505a, type: 3}
+    clip: {fileID: 8300000, guid: 516991169c773a44ab63ca8a926a7a93, type: 3}
+  - name: Birth of a Wish
+    cover: {fileID: 21300000, guid: 5fb3a19112ec8db4ab6e07feb84d505a, type: 3}
+    clip: {fileID: 8300000, guid: bb4785a93cb9ca849af76224c56ae3fc, type: 3}
+  - name: The Color of Depression
+    cover: {fileID: 21300000, guid: 5fb3a19112ec8db4ab6e07feb84d505a, type: 3}
+    clip: {fileID: 8300000, guid: a5f82a0ad5568b0468e1bdff414dfbeb, type: 3}
+  - name: Amusement Park
+    cover: {fileID: 21300000, guid: 5fb3a19112ec8db4ab6e07feb84d505a, type: 3}
+    clip: {fileID: 8300000, guid: 67dc170c695fad741b17579077519e9c, type: 3}
+  - name: A Beautiful Song
+    cover: {fileID: 21300000, guid: 5fb3a19112ec8db4ab6e07feb84d505a, type: 3}
+    clip: {fileID: 8300000, guid: c4656549980420240b1e92dcec21c8af, type: 3}
+  - name: Voice of no Return - Guitar
+    cover: {fileID: 21300000, guid: 5fb3a19112ec8db4ab6e07feb84d505a, type: 3}
+    clip: {fileID: 8300000, guid: e4eb18313ec6ad04fa4d0eb6d4b1a5ea, type: 3}
+  - name: Grandma - Destruction
+    cover: {fileID: 21300000, guid: 5fb3a19112ec8db4ab6e07feb84d505a, type: 3}
+    clip: {fileID: 8300000, guid: 72008613e3352a54b8ed6a8339536b9a, type: 3}
+  - name: Faltering Prayer - Dawn Breeze
+    cover: {fileID: 21300000, guid: 5fb3a19112ec8db4ab6e07feb84d505a, type: 3}
+    clip: {fileID: 8300000, guid: d320cb0483fc98b439ad098e5e6b2b58, type: 3}
+  - name: Emil's Shop
+    cover: {fileID: 21300000, guid: 5fb3a19112ec8db4ab6e07feb84d505a, type: 3}
+    clip: {fileID: 8300000, guid: e7e2e7496d35b5f41b27bc7d6bed3991, type: 3}
+  - name: Treasured Times
+    cover: {fileID: 21300000, guid: 5fb3a19112ec8db4ab6e07feb84d505a, type: 3}
+    clip: {fileID: 8300000, guid: 44515eed80617de40b047e89a9d59bac, type: 3}
+  - name: Vague Hope - Cold Rain
+    cover: {fileID: 21300000, guid: 5fb3a19112ec8db4ab6e07feb84d505a, type: 3}
+    clip: {fileID: 8300000, guid: b0ce24c2c8816d6409c5fd217443aedb, type: 3}
+  - name: Weight of the World
+    cover: {fileID: 21300000, guid: 5fb3a19112ec8db4ab6e07feb84d505a, type: 3}
+    clip: {fileID: 8300000, guid: 5c23d31e9bb5d0c4bb6dd1a125136106, type: 3}
+  imageLibrary:
+  - name: Ocean
+    image: {fileID: 21300000, guid: 2ec8d21a98525c84e97b3b274c25b5bd, type: 3}
+  - name: Beach
+    image: {fileID: 21300000, guid: 67148df7cf357a046b85088963ffdd46, type: 3}
+  - name: Clock
+    image: {fileID: 21300000, guid: 95cdd03cd6affd64995ecd2cea04acdf, type: 3}
+  - name: UnknownContact
+    image: {fileID: 21300000, guid: 72d1e4ff18482bb41ae83e2c1f5c60da, type: 3}
+  - name: Bird
+    image: {fileID: 21300000, guid: f92cfda35425fb143ab8de1ba64e1f97, type: 3}
+  videoLibrary:
+  - name: Scanner
+    thumbnail: {fileID: 21300000, guid: 910d8ef1d4dd5f4419f2e1b5f5ba5952, type: 3}
+    clip: {fileID: 32900000, guid: 40817578976b51846bdb4c588acecccd, type: 3}
+  - name: 102
+    thumbnail: {fileID: 21300000, guid: 72d1e4ff18482bb41ae83e2c1f5c60da, type: 3}
+    clip: {fileID: 32900000, guid: e515597ee4fc9814c883312e0f8c18f1, type: 3}
+  - name: prozd
+    thumbnail: {fileID: 21300000, guid: d6e5829afa5e9b94f81aa4b08d5e390a, type: 3}
+    clip: {fileID: 32900000, guid: 713c88e613f6d544382d46a4ebf46531, type: 3}
+--- !u!328 &328804436554826552
+VideoPlayer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1510731360256432}
+  m_Enabled: 1
+  m_VideoClip: {fileID: 0}
+  m_TargetCameraAlpha: 1
+  m_TargetCamera3DLayout: 0
+  m_TargetCamera: {fileID: 0}
+  m_TargetTexture: {fileID: 0}
+  m_TimeReference: 0
+  m_TargetMaterialRenderer: {fileID: 0}
+  m_TargetMaterialProperty: _MainTex
+  m_RenderMode: 4
+  m_AspectRatio: 2
+  m_DataSource: 0
+  m_PlaybackSpeed: 1
+  m_AudioOutputMode: 1
+  m_TargetAudioSources: []
+  m_DirectAudioVolumes: []
+  m_Url: 
+  m_EnabledAudioTracks: 
+  m_DirectAudioMutes: 
+  m_ControlledAudioTrackCount: 0
+  m_PlayOnAwake: 0
+  m_SkipOnDrop: 1
+  m_Looping: 0
+  m_WaitForFirstFrame: 1
+  m_FrameReadyEventEnabled: 0

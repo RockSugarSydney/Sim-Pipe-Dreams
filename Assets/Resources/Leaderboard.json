@@ -1,0 +1,22 @@
+{
+	"playerStatsList": [
+		{
+			"name": "Teddy",
+			"playtime": 5.0,
+			"highscore": 100,
+			"adsWatched": 10
+		},
+		{
+			"name": "Alex",
+			"playtime": 2.75,
+			"highscore": 50,
+			"adsWatched": 5
+		},
+		{
+			"name": "Jenny",
+			"playtime": 1.5,
+			"highscore": 25,
+			"adsWatched": 1
+		}
+	]
+}

@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1921317705519972}
+  m_IsPrefabParent: 1
+--- !u!1 &1921317705519972
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4798409921099578}
+  - component: {fileID: 20160603733203360}
+  - component: {fileID: 124948135209765290}
+  - component: {fileID: 81598058627672012}
+  - component: {fileID: 114602585845065192}
+  m_Layer: 0
+  m_Name: Main Camera
+  m_TagString: MainCamera
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4798409921099578
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1921317705519972}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!20 &20160603733203360
+Camera:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1921317705519972}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: 0.3
+  far clip plane: 1000
+  field of view: 60
+  orthographic: 1
+  orthographic size: 5
+  m_Depth: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingPath: -1
+  m_TargetTexture: {fileID: 0}
+  m_TargetDisplay: 0
+  m_TargetEye: 3
+  m_HDR: 1
+  m_AllowMSAA: 1
+  m_AllowDynamicResolution: 0
+  m_ForceIntoRT: 0
+  m_OcclusionCulling: 1
+  m_StereoConvergence: 10
+  m_StereoSeparation: 0.022
+--- !u!81 &81598058627672012
+AudioListener:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1921317705519972}
+  m_Enabled: 1
+--- !u!114 &114602585845065192
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1921317705519972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c5eece0f866b8c4c854b254ed66bbe2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lockScreen: {fileID: 1937777930719468, guid: b7d8ddaff9acd3942962a3b9ae0abf1f, type: 2}
+  mediaScreen: {fileID: 1437508174746818, guid: 96d39e8202c19404abf680806fbe84c4,
+    type: 2}
+  callScreen: {fileID: 1179057326755282, guid: becee53071ff26c47a9a74065d8ce8bc, type: 2}
+  chatHandler: {fileID: 1919675937419518, guid: 70422378213d5c74895fee1f03892424,
+    type: 2}
+  notificationBar: {fileID: 1948555836801264, guid: 0ba3718e54cc8bd4ba7d38ce2cf251c0,
+    type: 2}
+  onScreenKeyboard: {fileID: 1412124710032814, guid: 41db98b57e9a00b4bbdcbdbab432d7b1,
+    type: 2}
+  overlayCanvas: {fileID: 0}
+  cameraEffects:
+  - name: Jitter
+    effectMaterial: {fileID: 2100000, guid: a1b6c1c4dfc1f5246846ee88a82d1433, type: 2}
+    duration: 3
+  - name: OpenApp
+    effectMaterial: {fileID: 2100000, guid: 06851281bbae158488fe8325d451af67, type: 2}
+    duration: 0.5
+  - name: FadeOut
+    effectMaterial: {fileID: 2100000, guid: 90db452acee7b7440934850ac777c0f6, type: 2}
+    duration: 0.5
+  lifespan: 2
+--- !u!124 &124948135209765290
+Behaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1921317705519972}
+  m_Enabled: 1
