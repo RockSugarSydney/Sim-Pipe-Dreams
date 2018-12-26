@@ -6,7 +6,7 @@ class BuildScript {
 	static string[] SCENES = FindEnabledEditorScenes();
 
 	static string APP_NAME = "Simulacra-PipeDreams";
-	static string TARGET_DIR = "D:\KAIGAN GAMES\JENKINS_BUILD\Simulacra-pipedreams";
+	static string TARGET_DIR = "";
 
 	static void PerformAllBuilds ()
 	{
@@ -21,7 +21,7 @@ class BuildScript {
 	static void PerformMacOSXBuild ()
 	{
 		string target_dir = APP_NAME;
-		GenericBuild(SCENES, TARGET_DIR + "/" + target_dir, BuildTarget.StandaloneOSXUniversal,BuildOptions.None);
+		GenericBuild(SCENES, TARGET_DIR + "/" + target_dir, BuildTarget.StandaloneOSX,BuildOptions.None);
 	}
 
 	static void PerformWindowsBuild ()
