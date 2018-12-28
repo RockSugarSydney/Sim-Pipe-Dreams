@@ -3,7 +3,7 @@ using UnityEngine;
 using System.Diagnostics;
 using UnityEditor.Build.Reporting;
 
-public class BuildSimulacra
+public class BuildScript
 {
     [MenuItem("Build/Build StandaloneWindows")]
     public static void buildWindows(){
