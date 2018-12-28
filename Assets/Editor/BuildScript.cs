@@ -1,8 +1,6 @@
 using UnityEditor;
 using UnityEngine;
 using System.Diagnostics;
-using UnityEditor.Build.Reporting;
-
 public class BuildScript
 {
     [MenuItem("Build/Build StandaloneWindows")]
