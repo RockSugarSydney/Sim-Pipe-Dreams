@@ -24,7 +24,7 @@ public class BuildScript : MonoBehaviour
         // BuildPipeline.BuildPlayer(buildPlayerOptions);
 
 		// Get filename.
-        string path = EditorUtility.SaveFolderPanel("Choose Location of Built Game", "", "");
+        string path = "D:/KAIGAN GAMES/JENKINS_BUILD/Simulacra-pipedreams";
         string[] levels = new string[] 
 						{
 							"Assets/Scenes/PhoneMenu.unity", 
