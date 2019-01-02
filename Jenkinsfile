@@ -9,7 +9,7 @@ pipeline{
 
         stage('Build Project for Windows Platform'){
             steps{
-                bat "C:/Program Files/Unity/Editor/Unity.exe -quit -batchmode -nographics -executeMethod BuildScript.MyBuild -logFile D:/KAIGAN GAMES/JENKINS_BUILD/Simulacra-pipedreams"
+                bat "LocalUNITY3D -quit -batchmode -nographics -executeMethod BuildScript.MyBuild -logFile D:/KAIGAN GAMES/JENKINS_BUILD/Simulacra-pipedreams"
             }
         }
 
