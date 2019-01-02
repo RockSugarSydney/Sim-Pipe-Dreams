@@ -11,7 +11,7 @@ pipeline{
 
         stage('Build Project'){
             steps{
-                bat "-quit -batchmode -nographics -executeMethod BuildScript.MyBuild -logFile D:\KAIGAN GAMES\JENKINS_BUILD\Simulacra-pipedreams"
+                bat "-quit -batchmode -nographics -executeMethod BuildScript.MyBuild -logFile D:/KAIGAN GAMES/JENKINS_BUILD/Simulacra-pipedreams"
             }
         }
 
