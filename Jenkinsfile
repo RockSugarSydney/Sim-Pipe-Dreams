@@ -2,7 +2,7 @@ pipeline{
     agent any
     stages{
         stage('Initialization'){
-            post{
+            steps{
                 success{
                     echo "initialization project ..."
                 }
@@ -16,7 +16,7 @@ pipeline{
         }
 
         stage('Archiving Build Project'){
-            post{
+            steps{
                 success{
                     echo 'Now Archiving...'
                     archiveArtifacts artifacts: '**/target/*.exe',
