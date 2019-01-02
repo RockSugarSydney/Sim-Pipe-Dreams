@@ -3,9 +3,7 @@ pipeline{
     stages{
         stage('Initialization'){
             steps{
-                success{
-                    echo "initialization project ..."
-                }
+                echo "initialization project ..."
             }
         }
 
@@ -17,11 +15,9 @@ pipeline{
 
         stage('Archiving Build Project'){
             steps{
-                success{
-                    echo 'Now Archiving...'
-                    archiveArtifacts artifacts: '**/target/*.exe',
-                    onlyIfSuccessful: true
-                }
+                echo 'Now Archiving...'
+                archiveArtifacts artifacts: '**/target/*.exe',
+                onlyIfSuccessful: true
             }
         }
     }
